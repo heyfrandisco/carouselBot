@@ -1,13 +1,17 @@
-# Created by 2inthemorningg, atlasjx, FPort0
-# Developed by 2inthemorningg
+# Created by 2inthemorning(g), atlasjx, FPort0
+# Developed by 2inthemorning(g)
 # Tested by atlasjx, FPort0
+
+# Note: The sleep delay exists to prevent an "overload" and would cause the movement to glitch. 
+# You can play with the time frame to find the optimum balance of being annoying and not destroying the app
+# Have fun :)
 
 import discord
 import time
 from discord.ext import commands
 
 bot = commands.Bot(command_prefix='{|}')
-TOKEN = "OTYyNzkzODk2NDMyMjU0OTc2.YlMtsA.d0UMMzatRvR4hpFOjYEakqRs1F0"
+TOKEN = {token}
 
 
 @bot.event
