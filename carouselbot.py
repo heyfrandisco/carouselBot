@@ -2,7 +2,7 @@
 # Developed by 2inthemorning(g)
 # Tested by atlasjx, FPort0
 
-# Note: The sleep delay exists to prevent an "overload" and would cause the movement to glitch. 
+# Note: The sleep delay exists to prevent an "overload" that would cause the movement to glitch. 
 # You can play with the time frame to find the optimum balance of being annoying and not destroying the app
 # Have fun :)
 
