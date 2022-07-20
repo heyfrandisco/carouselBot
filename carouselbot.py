@@ -1,6 +1,5 @@
-# Created by 2inthemorning(g), atlasjx, FPort0
-# Developed by 2inthemorning(g)
-# Tested by atlasjx, FPort0
+# Created by fcallanam
+# Developed by fcallanam
 
 # Note: The sleep delay exists to prevent an "overload" that would cause the movement to glitch. 
 # You can play with the time frame to find the optimum balance of being annoying and not destroying the app.
