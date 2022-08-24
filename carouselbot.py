@@ -21,7 +21,7 @@ async def on_ready():
 
 
 @bot.command()
-async def voltinha(ctx, member: discord.Member, channel1: discord.VoiceChannel, channel2: discord.VoiceChannel):
+async def ride(ctx, member: discord.Member, channel1: discord.VoiceChannel, channel2: discord.VoiceChannel):
 
     while True:
         await member.move_to(channel1)
@@ -34,7 +34,7 @@ async def voltinha(ctx, member: discord.Member, channel1: discord.VoiceChannel, 
 
 
 @bot.command()
-async def xau(ctx):
+async def bye(ctx):
     print("EXITING...")
     exit(0)
 
