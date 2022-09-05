@@ -15,8 +15,8 @@ TOKEN = {token}
 
 @bot.event
 async def on_ready():
-    print("We have logged in as {0.user}".format(bot))
-    print("Bot made by 2inthemorning(g)")
+    print("Logged in as {0.user}".format(bot))
+    print("Bot made by fcallanam")
     print("Version 1.0.0")
 
 
