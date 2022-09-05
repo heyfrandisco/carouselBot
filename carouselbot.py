@@ -2,7 +2,7 @@
 # Developed by fcallanam
 
 # Note: The sleep delay exists to prevent an "overload" that would cause the movement to glitch. 
-# You can play with the time frame to find the optimum balance of being annoying and not destroying the app.
+# You can play with the time frame to find the optimum balance between being annoying and not destroying the app.
 # Have fun :)
 
 import discord
