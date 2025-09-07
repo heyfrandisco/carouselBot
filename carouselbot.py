@@ -9,8 +9,11 @@ import discord
 import time
 from discord.ext import commands
 
-bot = commands.Bot(command_prefix={prefix})
-TOKEN = {token}
+intents = discord.Intents.default()
+intents.members = True 
+
+bot = commands.Bot(command_prefix={'prefix'}, intents=intents)
+TOKEN = {'token'}
 
 
 @bot.event
